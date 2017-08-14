@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GugudanApplication.iml" filepath="$PROJECT_DIR$/GugudanApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KwonSeongMin-guudan.iml" filepath="$PROJECT_DIR$/KwonSeongMin-guudan.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
